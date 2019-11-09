@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"wagochcd20516c": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
