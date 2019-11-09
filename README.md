@@ -1,4 +1,8 @@
 # wagoch
+![](https://github.com/pureone-tcy/wagoch/workflows/Node%20CI/badge.svg)
+![](https://img.shields.io/github/v/release/pureone-tcy/wagoch)
+
+<img width="20%" alt="wagoch logo.png" src="src/assets/logo.png">
 
 ## Project setup
 ```
